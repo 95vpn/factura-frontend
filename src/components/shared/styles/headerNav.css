@@ -1,0 +1,12 @@
+.container--header {
+    border: 1px solid green;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+    box-shadow: 1px 2px 5px;
+}
+
+.container--header--list{
+    display: flex;
+}
